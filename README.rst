@@ -1,8 +1,8 @@
-===============================
+=========
 vBurgundy
-===============================
+=========
 
-Application that uses pyvmomi
+Application that uses pyvmomi, but doest do anything at all yet.
 
 
 Quickstart

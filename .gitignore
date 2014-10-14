@@ -52,3 +52,6 @@ env*
 
 # Databases
 dev.db
+
+# migration stuff
+migrations

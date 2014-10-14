@@ -45,3 +45,10 @@ docs/_build
 # Virtualenvs
 env
 env*
+
+# Idea stuff
+*.iml
+.idea
+
+# Databases
+dev.db

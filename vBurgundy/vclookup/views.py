@@ -19,7 +19,7 @@ blueprint = Blueprint("vclookup", __name__, url_prefix='/vclookup',
                       static_folder="../static")
 
 
-@blueprint.route("/")
+@blueprint.route("/vclookup/")
 @login_required
-def members():
+def vcenter():
     return render_template("vclookup/vcenter.html")
